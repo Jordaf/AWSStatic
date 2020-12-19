@@ -1,0 +1,2 @@
+# AWSStatic
+Static website tutorial
